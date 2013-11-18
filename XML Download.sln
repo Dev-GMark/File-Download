@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "XML Download", "XML Download\XML Download.vbproj", "{8F4E60D3-D893-4EC8-B2D3-74CCB78DF863}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "File Download", "File Download\File Download.vdproj", "{B655E583-1E62-467C-9B6D-BEA6166FC378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4E60D3-D893-4EC8-B2D3-74CCB78DF863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4E60D3-D893-4EC8-B2D3-74CCB78DF863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4E60D3-D893-4EC8-B2D3-74CCB78DF863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4E60D3-D893-4EC8-B2D3-74CCB78DF863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B655E583-1E62-467C-9B6D-BEA6166FC378}.Debug|Any CPU.ActiveCfg = Debug
+		{B655E583-1E62-467C-9B6D-BEA6166FC378}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
